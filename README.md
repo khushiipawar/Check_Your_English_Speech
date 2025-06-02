@@ -1,5 +1,5 @@
 
-Requirements
+##Requirements
 Run the code in console using command line.
 It'll let you input a English word or sentence, then it'll let you speak it.
 It'll record your voice using mic and check if you speak correctly. If not it'll ask you speak it again until you speak it correctly.
